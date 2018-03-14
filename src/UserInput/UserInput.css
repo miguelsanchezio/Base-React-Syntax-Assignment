@@ -1,3 +1,10 @@
+.UserInput h3 {
+  margin-bottom: 10px;
+}
+
 .UserInput input {
-  padding: 7px;
+  padding: 10px;
+  width: 100%;
+  border: none;
+  border-bottom: 2px solid black;
 }
