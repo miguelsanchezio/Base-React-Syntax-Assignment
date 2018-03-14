@@ -1,0 +1,9 @@
+.UserOutput {
+  margin-top: 20px;
+}
+
+.UserOutput p {
+  max-width: 400px;
+  margin-bottom: 10px;
+  line-height: 1.6;
+}
